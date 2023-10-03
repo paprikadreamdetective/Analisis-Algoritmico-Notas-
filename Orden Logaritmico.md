@@ -18,7 +18,7 @@ def binarySearch(nums, target):
 #i=0,4=(0 + 8)/2
 #i=1,1=(0+3)/2
 #i=2,0=(0+0)/2
-        mid = (left + right) // 2
+        mid = (left + right) // 
 #i=0,2==nums[4]=9?false
 #i=1,2==nums[1]=5?false
 #i=2,2==nums[0]=2?true

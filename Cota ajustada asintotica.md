@@ -5,14 +5,11 @@ Se dice que $f(n)=\Theta(g(n))$ si se cumplen las siguientes dos condiciones:
 2- $f(n)=\Omega(g(n))$
 
 
-La forma de loa curva es la misma, pero multilicada por una constante esta un poco abajo y por otra constante esta por debajo del tiempo $T(n)$:
+La forma de loa curva es la misma, pero multiplicada por una constante esta un poco abajo y por otra constante esta por debajo del tiempo $T(n)$:
 
+Representación grafica:
 
-Representacion grafica:
-
-
-
-Si son iguales, esa funcion esta ajustada:
+Si son iguales, esa función esta ajustada:
 
 ```python
 for i in range(0, len(arreglo)): # O(n)
